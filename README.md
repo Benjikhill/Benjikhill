@@ -1,6 +1,6 @@
 # Hey there, its me Benjamin
 
-:airplane: Travelling 
+<p>:airplane: Travelling<p/>
 :seedling: Plant-based
 :unlock: Open minded
 
