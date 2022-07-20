@@ -1,9 +1,11 @@
 # Hey there, its me Benjamin
 
-✈️ Travelling 
+:airplane: Travelling 
 :seedling: Plant-based
-🔓 Open minded
+:unlock: Open minded
 
 ## Hobbys
 
 :ski: Skiing
+:camping:	Camping
+:soccer: Soccer
